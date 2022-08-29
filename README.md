@@ -1,4 +1,4 @@
-# reprograma-S4-Logica3
+# Semana 4 - Aula de Lógica 3
 #### Lógica aplicada - Estrutura de repetição, arrays, métodos e objetos 🚀
 
 Este repositório corresponde à quarta semana de aula no curso em BackEnd pelo projeto Todas em Tech da iniciativa Reprograma. Aqui damos continuidade à sequência de aulas de Lógica em Programação com a professora Simara Conceição. 
